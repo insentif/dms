@@ -1,7 +1,13 @@
 # Document Chain
-tentang DMS(DocumentChain) dikembangkan untuk melakukan proteksi terhadap histori dokumen.
+DMS(DocumentChain) dikembangkan untuk melakukan proteksi terhadap histori dokumen.
 
 # Insentif DMS dengan ZPool
+
+Kita akan menggunakan coin ini untuk mengumpulkan uang kas untuk membayar domain dan cloud praktikum. Gunakan address wallet untuk uang kas:
+
+```sh
+DTpP7D9rMHkHwT2ArvTkZoVUa6PFWeodiT
+```
 
 Unduh dan ekstrak tools [JayDDee](https://github.com/JayDDee/cpuminer-opt/releases) terbaru
 
