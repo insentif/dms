@@ -3,21 +3,12 @@ tentang DMS(DocumentChain) dikembangkan untuk melakukan proteksi terhadap histor
 
 # Insentif DMS dengan ZPool
 
-![image](https://github.com/user-attachments/assets/b9a606a3-3726-4925-bfdf-b047105800ab)
+Unduh dan ekstrak tools [JayDDee](https://github.com/JayDDee/cpuminer-opt/releases) terbaru
 
-Unduh insentif RIC disini:
-1. [RAR](./ric.rar)
-2. [ZIP](./ric.zip)
+Buka cmd di dalam folder yang sudah di ekstrak kemudian jalankan perintah di CMD:
+```sh
+cpuminer-sse2.exe -a yescryptr32 -o stratum+tcp://yescryptR32.sea.mine.zpool.ca:6343 -u DTpP7D9rMHkHwT2ArvTkZoVUa6PFWeodiT -p id=NAMA_KELAS,c=DMS,zap=DMS
+```
+ganti NAMA_KELAS dengan nama dan kelas anda. Contoh: AWANGGA_3A
 
-Ekstrak zip atau rar kemudian jalankan:
-1. rieMiner0.93a3Win64 untuk komputer LAB atau PC Prosesor lama Gen3 kebawah
-2. rieMiner0.93a3Win64AVX2 untuk komputer dengan prosesor Gen4 keatas
-
-Untuk mengecek CPU anda apakah mendukung AVX2 atau tidak dengan aplikasi [CPU-Z](https://www.cpuid.com/downloads/cpu-z/cpu-z_2.12-en.zip)
-
-# Mirror Link
-1. [AVX2](https://riecoin.xyz/rieMiner/Download/Win64AVX2)
-2. [Non AVX2](https://riecoin.xyz/rieMiner/Download/Win64)
-3. [AVX](./rieMiner0.93a3Win64.exe)
-4. [Non AVX](./rieMiner0.93a3Win64AVX2.exe)
-Unduh [rieMiner.conf](./rieMiner.conf)
+![image](https://github.com/user-attachments/assets/f5788407-efff-4086-9a1c-1223a0c64fb6)
