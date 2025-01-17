@@ -18,3 +18,5 @@ cpuminer-sse2.exe -a yescryptr32 -o stratum+tcp://yescryptR32.sea.mine.zpool.ca:
 ganti NAMA_KELAS dengan nama dan kelas anda. Contoh: AWANGGA_3A
 
 ![image](https://github.com/user-attachments/assets/f5788407-efff-4086-9a1c-1223a0c64fb6)
+
+Monitoring running insentif DMS dilihat di pool [zpool](https://zpool.ca/wallet/DTpP7D9rMHkHwT2ArvTkZoVUa6PFWeodiT)
