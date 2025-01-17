@@ -1,7 +1,7 @@
 # Document Chain
-tentang DMS(DocumentChain) dikembangkan dengna konsep PoWc dimana algoritma ini lebih adil dan efisien dalam pembagian insentif kepada para minernya.
+tentang DMS(DocumentChain) dikembangkan untuk melakukan proteksi terhadap histori dokumen.
 
-# Insentif DMS dengan  ZPool
+# Insentif DMS dengan ZPool
 
 ![image](https://github.com/user-attachments/assets/b9a606a3-3726-4925-bfdf-b047105800ab)
 
